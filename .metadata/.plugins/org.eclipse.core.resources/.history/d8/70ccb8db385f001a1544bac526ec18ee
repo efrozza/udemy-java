@@ -1,0 +1,36 @@
+package org.studyeasy;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		
+		
+		// declaração ok pq short cabe no int
+		// feito um casting implicito
+		short x = 5;
+		int y =  x;
+		
+		System.out.println(y);
+		
+		// se tentarmos colocar um int em um short o java nao consegue
+		// fezer um casting implicito
+		// para o jova conseguir fazer o casting as variaveis deve ter tipos compativeis, ou seja, Integer com Integer, float com float
+		
+		int y2 =  10;
+		short x2 = (short) y2;
+		
+		System.out.println(y2);
+		
+		int y3 = 10;
+		short x3 = (byte) y3;
+		
+		System.out.println(y3);
+		
+		// casting entre float em double
+		
+		float v1 = 10.0;
+		double v2 = 20.0;
+
+	}
+
+}

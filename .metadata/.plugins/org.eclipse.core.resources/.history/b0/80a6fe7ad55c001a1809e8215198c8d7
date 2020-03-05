@@ -1,0 +1,22 @@
+
+public class Hello {
+
+	public static void main(String[] args) {
+		int value1 = 9;
+		
+		// float
+		
+		float value2 = 9;
+		
+		// double
+		
+		double value3 = 9;
+		
+		System.out.println("value 1 = " + value1);
+		System.out.println("value 2 = " + value2);
+		System.out.println("value 3 = " + value3);
+		
+
+	}
+
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\ASPIRE V NITRO\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1115508749.index
+1437360316.index
+817013414.index
+3856445247.index
+1120433633.index
+581433447.index
+1293154432.index
+64261417.index

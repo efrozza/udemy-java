@@ -1,0 +1,16 @@
+package org.studyeasy;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		
+		// declaração ok pq short cabe no int
+		// feito um casting implicito
+		short x = 5;
+		int y =  x;
+		
+		System.out.println(y);
+
+	}
+
+}

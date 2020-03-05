@@ -1,0 +1,14 @@
+
+public class Hello {
+	public static void main(String[] args) {
+		// declaração da variavel
+		int value1;
+		// valorização da variavel
+		value1 = 1;
+		
+		int value2 = 1;
+		
+		System.out.println(value1);
+	}
+
+}
