@@ -42,10 +42,19 @@ public class Hello {
 		
 		System.out.println(b);
 		
+		// casting float e load
+		
 		float f1 = 10.0f;
 		long l1 = (long) f1;
 		
-		System.out.println(f1);
+		System.out.println(l1);
+		
+		// casting float e load
+		
+		float f2 = 10.532f;
+		long l2 = (long) f2;
+		
+		System.out.println(l2);
 		
 		
 		
